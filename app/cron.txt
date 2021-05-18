@@ -1,0 +1,1 @@
+0 6 * * * sh /storage/emulated/0/google-photos-upload-server/app/index.sh
